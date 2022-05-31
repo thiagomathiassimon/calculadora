@@ -8,7 +8,7 @@ public class Principal {
 
         String opcao = "";
         Calculadora calculadora = new Calculadora();
-        while (!opcao.equals("9")) {
+        while (!"9".equals(opcao)) {
             opcao = JOptionPane.showInputDialog("1 - Leitura \n2 - Soma \n3 - Subtração " + "\n4 - Produto \n5 - Divisão \n9 - Sair");
             switch (Integer.parseInt(opcao)) {
                 case 1:
