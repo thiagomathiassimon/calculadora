@@ -10,8 +10,8 @@ public class Calculadora {
     }
 
     public Calculadora(double valorA, double valorB) {
-        this.valorA = valorA;
-        this.valorB = valorB;
+        setValorA(valorA);
+        setValorB(valorB);
     }
 
     public double getValorA() {
