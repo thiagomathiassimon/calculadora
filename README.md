@@ -4,7 +4,7 @@ thiagomathiassimon/calculadora1](https://github.com/thiagomathiassimon/calculado
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=thiagomathiassimon_calculadora1&metric=coverage)](https://sonarcloud.io/component_measures?id=thiagomathiassimon_calculadora1&metric=coverage)
 
 # Calculadora com C.I.
-Utila 3 ambientes:
+Utiliza 3 ambientes:
 - dev - Desenvolvimento
 - hmg - Homologação
 - prd - Empacotamento
