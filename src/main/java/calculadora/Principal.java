@@ -1,3 +1,5 @@
+package calculadora;
+
 import calculadora.Calculadora;
 
 import javax.swing.*;
@@ -26,6 +28,8 @@ public class Principal {
                     break;
                 case 5:
                     JOptionPane.showMessageDialog(null, "Divisão: " + calculadora.getDivisao());
+                    break;
+                default:
                     break;
             }
         }

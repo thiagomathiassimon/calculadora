@@ -41,7 +41,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        Principal
+                                        calculadora.Principal
                                     </mainClass>
                                 </manifest>
                             </archive>
