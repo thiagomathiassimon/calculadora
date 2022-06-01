@@ -1,5 +1,5 @@
 [![Github Actions Status for
-thiagomathiassimon/calculadora1](https://github.com/thiagomathiassimon/calculadora1/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https:github.com/thiagomathiassimon/calculadora1/actions)
+thiagomathiassimon/calculadora1](https://github.com/thiagomathiassimon/calculadora1/workflows/CI/badge.svg)](https:github.com/thiagomathiassimon/calculadora1/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thiagomathiassimon_calculadora1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=thiagomathiassimon_calculadora1)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=thiagomathiassimon_calculadora1&metric=coverage)](https://sonarcloud.io/component_measures?id=thiagomathiassimon_calculadora1&metric=coverage)
 
