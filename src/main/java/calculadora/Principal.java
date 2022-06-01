@@ -1,7 +1,5 @@
 package calculadora;
 
-import calculadora.Calculadora;
-
 import javax.swing.*;
 
 public class Principal {
